@@ -1,9 +1,9 @@
 function fun1(){
-    document.write(Math.PI);
+    alert(Math.PI);
     return;
 }
 function fun2(){
-    document.write(Math.E);
+    alert(Math.E);
     return;
 }
 //DON'T COPY PLEASE
