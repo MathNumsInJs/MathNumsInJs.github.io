@@ -1,1 +1,2 @@
-# MathNumsInJs.github.io
+⌨️Math nums using JavaScript
+📸Easy-to-use
